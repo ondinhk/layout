@@ -19,6 +19,9 @@ header{
     justify-content: center;
     align-items: center;
 }
+header a:hover{
+    color: red;
+}
 .home{
     text-decoration: none;
     font-size: 30px;
